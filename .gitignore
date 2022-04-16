@@ -1,0 +1,10 @@
+*.class
+*.log
+
+# model and G-code
+*.stl
+*.gco
+*.nc
+
+# others
+.ipynb_checkpoints/
